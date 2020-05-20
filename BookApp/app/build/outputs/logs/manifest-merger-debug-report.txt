@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/987ee39ecfaa97c40b56e49cfbd83201/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f73efec6270fb9550129902a157568ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Jon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fdc8d12aeb50b047df7e72714097950d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/72b073301a69e289fd05346f1f62f7ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f3b39dbde180d097e1f3ea27bd894377/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e5dd196fc6e1c6355537358ce11b19cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c21d973d8a0b043570f399220b187296/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0316850dfd110ac0bb387d61d5a7b36b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/adb880916af771dde42959dd636ca01b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/970a968ed0ee53e0efe23eb80a471d4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/24fcba5810eb8a35afaccce3d32e7ce1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/db24ce7d77552f9f3269bd8bb2b14d22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7415f8cf958db2720496c149d7fe6f97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e79419780500b2dd3f3aa98171a6705c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/521cd098d603665bacafae108253d871/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5798bc27904143ce91abf3b4b9ce1d2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c025f86211c20bc79c3b1d2279a89080/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/31b1b65993b04ba36f73082c4bf9b7d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/687e3aa7837bc0391ff7e96d612b69b0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a902eaed65f549593e2a2d5252aae62/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/741f31305c2ad2728493ee58c97b90b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/63f95ba4b878303964f63d59fde30720/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9690d91b90b7011a43eaa439fdb7176c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/81f96b154f7845839416beaa3c16706a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e3636315030ce484e1479a47fc9d4610/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4616459fbead0bb6509230c79be37a64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/34ca90e1829e779f8917b15bb6af7994/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1528edd71bffa9a2650812ee682df95a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9b1019431a7a274a331c022e091c7abe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2260f428704e0739f5954ccf4db6509f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:4:5-34
+		INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:6:18-37
+application
+ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Jon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fdc8d12aeb50b047df7e72714097950d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Jon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fdc8d12aeb50b047df7e72714097950d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/687e3aa7837bc0391ff7e96d612b69b0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/687e3aa7837bc0391ff7e96d612b69b0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a902eaed65f549593e2a2d5252aae62/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a902eaed65f549593e2a2d5252aae62/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/687e3aa7837bc0391ff7e96d612b69b0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:14:9-44
+activity#com.jphipps.bookapp.MainActivity
+ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:20:27-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml:26:22-76
+uses-sdk
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/987ee39ecfaa97c40b56e49cfbd83201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/987ee39ecfaa97c40b56e49cfbd83201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f73efec6270fb9550129902a157568ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f73efec6270fb9550129902a157568ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Jon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fdc8d12aeb50b047df7e72714097950d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Jon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fdc8d12aeb50b047df7e72714097950d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/72b073301a69e289fd05346f1f62f7ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/72b073301a69e289fd05346f1f62f7ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f3b39dbde180d097e1f3ea27bd894377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f3b39dbde180d097e1f3ea27bd894377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e5dd196fc6e1c6355537358ce11b19cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e5dd196fc6e1c6355537358ce11b19cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c21d973d8a0b043570f399220b187296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c21d973d8a0b043570f399220b187296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0316850dfd110ac0bb387d61d5a7b36b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0316850dfd110ac0bb387d61d5a7b36b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/adb880916af771dde42959dd636ca01b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/adb880916af771dde42959dd636ca01b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/970a968ed0ee53e0efe23eb80a471d4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/970a968ed0ee53e0efe23eb80a471d4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/24fcba5810eb8a35afaccce3d32e7ce1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/24fcba5810eb8a35afaccce3d32e7ce1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/db24ce7d77552f9f3269bd8bb2b14d22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/db24ce7d77552f9f3269bd8bb2b14d22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7415f8cf958db2720496c149d7fe6f97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7415f8cf958db2720496c149d7fe6f97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e79419780500b2dd3f3aa98171a6705c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e79419780500b2dd3f3aa98171a6705c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/521cd098d603665bacafae108253d871/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/521cd098d603665bacafae108253d871/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5798bc27904143ce91abf3b4b9ce1d2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5798bc27904143ce91abf3b4b9ce1d2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c025f86211c20bc79c3b1d2279a89080/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c025f86211c20bc79c3b1d2279a89080/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/31b1b65993b04ba36f73082c4bf9b7d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/31b1b65993b04ba36f73082c4bf9b7d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/687e3aa7837bc0391ff7e96d612b69b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/687e3aa7837bc0391ff7e96d612b69b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a902eaed65f549593e2a2d5252aae62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a902eaed65f549593e2a2d5252aae62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/741f31305c2ad2728493ee58c97b90b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/741f31305c2ad2728493ee58c97b90b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/63f95ba4b878303964f63d59fde30720/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/63f95ba4b878303964f63d59fde30720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9690d91b90b7011a43eaa439fdb7176c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9690d91b90b7011a43eaa439fdb7176c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/81f96b154f7845839416beaa3c16706a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/81f96b154f7845839416beaa3c16706a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e3636315030ce484e1479a47fc9d4610/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e3636315030ce484e1479a47fc9d4610/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4616459fbead0bb6509230c79be37a64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4616459fbead0bb6509230c79be37a64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/34ca90e1829e779f8917b15bb6af7994/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Jon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/34ca90e1829e779f8917b15bb6af7994/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1528edd71bffa9a2650812ee682df95a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1528edd71bffa9a2650812ee682df95a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9b1019431a7a274a331c022e091c7abe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9b1019431a7a274a331c022e091c7abe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2260f428704e0739f5954ccf4db6509f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Jon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2260f428704e0739f5954ccf4db6509f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jon/Desktop/BookApp/app/src/main/AndroidManifest.xml

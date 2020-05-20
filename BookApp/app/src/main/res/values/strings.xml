@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="data_source_xml_label">Data Source: XML</string>
+    <string name="data_source_json_label">Data Source: JSON</string>
+    <string name="data_source_none_label">Data Source: None</string>
+    <string name="xml_label">XML</string>
+    <string name="json_label">JSON</string>
+    <string name="source_options_label">Source Options</string>
+    <string name="search_options_label">Search Options</string>
+    <string name="search_title_label">Title</string>
+    <string name="search_year_label">Year</string>
+    <string name="search_label">Search</string>
+    <string name="search_clear_label">Clear</string>
+    <string name="title_label">Title: </string>
+    <string name="author_label">Author(s): </string>
+    <string name="publisher_label">Publisher: </string>
+    <string name="year_label">Year: </string>
+    <string name="price_label">Price: </string>
+</resources>
